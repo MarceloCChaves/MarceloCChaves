@@ -1,6 +1,11 @@
 ### Oi, tudo bem? 👋
 
 ## Apresentação
+<p align="center">
+        💻 - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**
+         
+        
+</p>
 
 
 ### Bio
@@ -8,9 +13,22 @@
 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**
 📚 - Estudando: Javascript, ReactJS e NodeJS
 
+<hr/>
+
 ### Linguagens e Ferramentas
 
 <p align="left">
+    <a
+    href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+    target="_blank"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="HTML"
+      width="40"
+      height="40"
+    />
+  </a>
    <a
     href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
     target="_blank"
@@ -73,3 +91,10 @@
   </a>
   
 </p>
+
+<hr/>
+
+### Encontre-me na web 🌎:
+
+Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>
+Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>
