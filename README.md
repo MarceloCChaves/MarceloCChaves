@@ -9,9 +9,9 @@
 
 
 ### Bio
-💻 - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**
-💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**
-📚 - Estudando: Javascript, ReactJS e NodeJS
+- 💻 - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**
+- 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**
+- 📚 - Estudando: Javascript, ReactJS e NodeJS
 
 <hr/>
 
