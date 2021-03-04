@@ -85,6 +85,14 @@
       height="40"
     />
   </a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+      alt="NodeJS"
+      width="40"
+      height="40"
+    />
+  </a>
   
 </p>
 
