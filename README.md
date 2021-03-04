@@ -1,17 +1,15 @@
 ### Oi, tudo bem? 👋
 
 ## Apresentação
-<p align="center">
-        💻 - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**
-         
-        
+<p align="left">
+ - Meu nome é Marcelo Calandrini Chaves e tenho 20 anos.
+ - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**.
+ - Adoro esportes principalmente Futebol e Basquete   
 </p>
 
-
 ### Bio
-- 💻 - Atualmente estou no 5 semestre de **Ciência da computação** no **Cesupa**
-- 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**
-- 📚 - Estudando: Javascript, ReactJS e NodeJS
+- 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
+- 📚 - Estudando: Javascript, ReactJS e NodeJS.
 
 <hr/>
 
@@ -96,5 +94,5 @@
 
 ### Encontre-me na web 🌎:
 
-Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>
-Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>
+- Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>.
+- Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>.
