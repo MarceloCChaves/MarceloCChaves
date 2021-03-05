@@ -98,7 +98,7 @@
     <img
       src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png"
       alt="Git"
-      width="40"
+      width="100"
       height="40"
     />
   </a>
