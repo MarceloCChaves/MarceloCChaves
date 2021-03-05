@@ -93,6 +93,15 @@
       height="40"
     />
   </a>
+    </a>
+    <a href="https://pt.wikipedia.org/wiki/Git#/media/Ficheiro:Git-logo.svg" target="_blank">
+    <img
+      src="https://pt.wikipedia.org/wiki/Git#/media/Ficheiro:Git-logo.svg"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
   
 </p>
 
