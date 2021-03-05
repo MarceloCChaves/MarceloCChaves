@@ -94,9 +94,9 @@
     />
   </a>
     </a>
-    <a href="https://pt.wikipedia.org/wiki/Git#/media/Ficheiro:Git-logo.svg" target="_blank">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" target="_blank">
     <img
-      src="https://pt.wikipedia.org/wiki/Git#/media/Ficheiro:Git-logo.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"
       alt="Git"
       width="40"
       height="40"
