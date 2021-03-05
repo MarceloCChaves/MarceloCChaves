@@ -94,9 +94,9 @@
     />
   </a>
     </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" target="_blank">
+    <a href="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"
+      src="hhttps://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png"
       alt="Git"
       width="40"
       height="40"
