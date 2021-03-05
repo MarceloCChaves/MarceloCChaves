@@ -94,9 +94,9 @@
     />
   </a>
     </a>
-    <a href="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png" target="_blank">
+    <a href="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png">
     <img
-      src="hhttps://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png"
+      src="https://e7.pngegg.com/pngimages/191/974/png-clipart-github-repository-git-project-commit-github-angle-logo.png"
       alt="Git"
       width="40"
       height="40"
