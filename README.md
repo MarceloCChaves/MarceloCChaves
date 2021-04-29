@@ -7,7 +7,7 @@
 
 ### Bio
 - 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- 📚 - Estudando: Javascript, ReactJS e NodeJS.
+- 📚 - Estudando: ReactJS, NodeJS e React Native.
 
 <hr/>
 
