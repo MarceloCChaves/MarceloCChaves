@@ -7,7 +7,7 @@
 
 ### Bio
 - 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- 📚 - Estudando: ReactJS, NodeJS e React Native.
+- 📚 - Estudando: Reactjs, Vuejs e React Native.
 
 <hr/>
 
@@ -111,3 +111,4 @@
 
 - Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>.
 - Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>.
+- Meu gitlab: https://gitlab.com/MarceloCChaves
