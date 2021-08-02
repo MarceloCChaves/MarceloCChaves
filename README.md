@@ -9,8 +9,6 @@
 - 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
 - 📚 - Estudando: Reactjs e Typescript.
 
-<hr/>
-
 ### Linguagens e Ferramentas
 
 <p align="left">
