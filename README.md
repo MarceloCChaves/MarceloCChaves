@@ -122,6 +122,6 @@
 
 ### Encontre-me na web 🌎:
 
-- <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>.
+- Conecte-se comigo no: <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2/">Linkedin</a>.
 - Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>.
 - Meu gitlab: https://gitlab.com/MarceloCChaves
