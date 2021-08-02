@@ -2,7 +2,7 @@
 
 ## Apresentação
  - Meu nome é Marcelo Calandrini Chaves e tenho 20 anos.
- - Atualmente estou no quinto semestre de **Ciência da computação** no **Cesupa**.
+ - Atualmente estou no sexto semestre de **Ciência da computação** no **Cesupa**.
  - Adoro esportes principalmente Futebol e Basquete   
 
 ### Bio
@@ -10,6 +10,13 @@
 - 📚 - Estudando: Reactjs e Typescript.
 
 <hr/>
+
+### Github Stats
+<div>
+  <a href="https://github.com/MarceloCChaves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloCChaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCChaves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Linguagens e Ferramentas
 
