@@ -100,9 +100,9 @@
     />
   </a>
     </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
       alt="Git"
       width="60"
       height="40"
