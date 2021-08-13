@@ -51,6 +51,14 @@
       height="40"
     />
   </a>
+    <a href="https://avatars.githubusercontent.com/u/6128107?s=200&v=4">
+    <img
+      src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"
+      alt="Git"
+      width="50"
+      height="50"
+    />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
@@ -107,8 +115,7 @@
       width="60"
       height="40"
     />
-  </a>
-  
+  </a>  
 </p>
 
 ### Github Stats
