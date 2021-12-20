@@ -1,7 +1,7 @@
 ### Oi, tudo bem? 👋
 
 ## Apresentação
- - Meu nome é Marcelo Calandrini Chaves e tenho 20 anos.
+ - Meu nome é Marcelo Calandrini Chaves e tenho 21 anos.
  - Atualmente estou no sexto semestre de **Ciência da computação** no **Cesupa**.
  - Adoro esportes principalmente Futebol e Basquete   
 
