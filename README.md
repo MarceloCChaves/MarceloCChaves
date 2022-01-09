@@ -7,7 +7,7 @@
 
 ### Bio
 - 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- 📚 - Estudando: Reactjs, vuejs e Typescript.
+- 📚 - Estudando: Reactjs, vuejs e Quasar.
 
 ### Linguagens e Ferramentas
 
