@@ -1,4 +1,4 @@
-### Oi, tudo bem? 👋
+### Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Apresentação
  - Meu nome é Marcelo Calandrini Chaves e tenho 21 anos.
@@ -128,7 +128,10 @@
 <hr/>
 
 ### Encontre-me na web 🌎:
-
-- <a href="https://www.linkedin.com/in/marcelo-chaves-0180a21b2">Linkedin</a>
-- Siga-me no: <a href="https://www.instagram.com/marcelocchaves_/">Instagram</a>.
-- Meu gitlab: <a href="https://gitlab.com/MarceloCChaves">Gitlab</a>
+ 
+<a href="https://www.instagram.com/marcelocchaves_/">
+  <img align="left" alt="Marcelo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/marcelocchaves/">
+  <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
