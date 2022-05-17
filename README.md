@@ -6,8 +6,9 @@
  - Adoro esportes principalmente Futebol e Basquete   
 
 ### Bio
-- 💕 - Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- 📚 - Estudando: Vuejs
+- 💕 Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
+- ✍ Tentando entrar no mundo backend e futuramente fullstack 
+- 📚 Estudando: Vuejs e NodeJS
 
 ### Linguagens e Ferramentas
 
