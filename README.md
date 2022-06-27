@@ -2,7 +2,7 @@
 
 ## Apresentação
  - Meu nome é Marcelo Calandrini Chaves e tenho 21 anos.
- - Atualmente estou no sétimo semestre de **Ciência da computação** no **Cesupa**.
+ - Atualmente estou no oitavo semestre de **Ciência da computação** no **Cesupa**.
  - Adoro esportes principalmente Futebol e Basquete   
 
 ### Bio
