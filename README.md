@@ -7,7 +7,7 @@
 
 ### Bio
 - 💕 Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- ✍ Tentando entrar no mundo backend e futuramente fullstack 
+- ✍ Conhecendo sobre a stack backend para futuramente me tornar um fullstack dev
 - 📚 Estudando: ReactJS e NodeJS
 
 ### Linguagens e Ferramentas
