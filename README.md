@@ -8,7 +8,7 @@
 ### Bio
 - 💼 Atualmente trabalho na Mentorise.
 - ✍ Stacks: ReactJS, VueJs, Angular, NodeJs, React Native.
-- ⚽ Gosto muito de futebol, acompanho da serie A do brasileirão a terceira divisão do japão.
+- ⚽ Gosto muito de futebol, séries e animes.
 
 ### Linguagens e Ferramentas
 
