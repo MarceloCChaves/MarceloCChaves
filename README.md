@@ -3,12 +3,12 @@
 ## Apresentação
  - Meu nome é Marcelo Calandrini Chaves e tenho 22 anos.
  - Sou graduado em **Ciência da computação** no **Cesupa**.
- - Adoro esportes principalmente Futebol e Basquete   
+ - Sou desenvolvedor **Fullstack** e também gosto de **Design de interfaces**  .
 
 ### Bio
-- 💕 Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
-- ✍ Me aprofundando na stack backend para futuramente me tornar um fullstack dev
-- 📚 Estudando: ReactJS e NodeJS
+- 💼 Atualmente trabalho na Mentorise.
+- ✍ Stacks: ReactJS, VueJs, Angular, NodeJs, React Native.
+- ⚽ Gosto muito de futebol, acompanho da serie A do brasileirão a terceira divisão do japão.
 
 ### Linguagens e Ferramentas
 
