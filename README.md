@@ -8,7 +8,7 @@
 ### Bio
 - 💼 Atualmente trabalho na Mentorise.
 - ✍ Stacks: ReactJS, VueJs, Angular, NodeJs, React Native.
-- ⚽ Gosto muito de futebol, séries e animes.
+- ⚽ Gosto muito de futebol, basquete, séries e principalmente os filmes da marvel.
 
 ### Linguagens e Ferramentas
 
