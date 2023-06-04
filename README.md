@@ -141,9 +141,6 @@
 
 ### Encontre-me na web 🌎:
  
-<a href="https://www.instagram.com/marcelocchaves_/">
-  <img align="left" alt="Marcelo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://www.linkedin.com/in/marcelocchaves/">
   <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
