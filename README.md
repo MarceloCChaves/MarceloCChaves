@@ -128,6 +128,14 @@
       height="40"
     />
   </a>
+ <a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+    <img
+      src="https://scontent.fbel7-1.fna.fbcdn.net/v/t39.30808-6/278128364_4985948144854412_3841072495540246445_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHzn0MTACngkqnQHxZ0uQ5cVwauvc_xDi5XBq69z_EOLt4oAMQ_qNm94QiRYl3Ypdfg1nxidVkk8dyu0kKcQGCf&_nc_ohc=qxZEHYVFSWgAX_6E2Z2&_nc_ht=scontent.fbel7-1.fna&oh=00_AfBB3PHkd2Y22tixHhE_7V80zhTbrLbRql4b4jneNT3mXw&oe=64B70264"
+      alt="Git"
+      width="60"
+      height="40"
+    />
+  </a>
 </p>
 
 ### Github Stats
