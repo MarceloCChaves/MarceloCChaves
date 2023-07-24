@@ -144,10 +144,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloCChaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCChaves&layout=compact&langs_count=7&theme=dracula"/>
 
-   <h3>Streak:</h3>
+### Streak
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloCChaves&theme=dracula&" alt="MarceloCChaves" height="250rem" />  <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-<h3>Season Rank:</h3>
+### Season Rank
 <p><img src="https://github-profile-trophy.vercel.app/?username=MarceloCChaves&theme=dracula&" alt="MarceloCChaves" height="300rem" /></a> </p>
 
 </div>
