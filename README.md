@@ -175,3 +175,7 @@
 <a href="https://www.linkedin.com/in/marcelocchaves/">
   <img align="left" alt="Marcelo's LinkedIN" width="22px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />
 </a>
+
+<a href="mailto:Marcelochaves20000@gmail.com">
+ <img align="left" alt="Marcelo's email" width="22px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" />
+</a>
