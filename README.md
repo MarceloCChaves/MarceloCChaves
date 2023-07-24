@@ -52,6 +52,14 @@
       height="40"
     />
   </a>
+    <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png"
+      alt="Angular"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://avatars.githubusercontent.com/u/6128107?s=200&v=4">
     <img
       src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"
@@ -109,30 +117,33 @@
     />
   </a>
     </a>
-    <a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-      alt="Git"
-      width="60"
-      height="40"
-    />
-  </a>
   <a
     href="https://pt.wikipedia.org/wiki/MySQL"
     target="_blank"
   >
-    <img 
-     src="https://s2.glbimg.com/79pd1VgUsjdDVho5YURl1kEaT3Y=/0x0:300x155/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif"
+    <img  src="https://s2.glbimg.com/79pd1VgUsjdDVho5YURl1kEaT3Y=/0x0:300x155/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif"
       alt="HTML"
       width="40"
       height="40"
     />
   </a>
- <a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
-    <img
-      src="https://scontent.fbel7-1.fna.fbcdn.net/v/t39.30808-6/278128364_4985948144854412_3841072495540246445_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHzn0MTACngkqnQHxZ0uQ5cVwauvc_xDi5XBq69z_EOLt4oAMQ_qNm94QiRYl3Ypdfg1nxidVkk8dyu0kKcQGCf&_nc_ohc=qxZEHYVFSWgAX_6E2Z2&_nc_ht=scontent.fbel7-1.fna&oh=00_AfBB3PHkd2Y22tixHhE_7V80zhTbrLbRql4b4jneNT3mXw&oe=64B70264"
-      alt="Git"
-      width="60"
+ <a
+    href="https://git-scm.com/"
+    target="_blank"
+  >
+    <img  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+      alt="HTML"
+      width="40"
+      height="40"
+    />
+  </a>
+ <a
+    href="https://www.cypress.io/"
+    target="_blank"
+  >
+    <img  src="https://www.cypress.io/images/layouts/navbar-brand.svg"
+      alt="HTML"
+      width="40"
       height="40"
     />
   </a>
