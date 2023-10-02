@@ -122,7 +122,7 @@
     target="_blank"
   >
     <img  src="https://s2.glbimg.com/79pd1VgUsjdDVho5YURl1kEaT3Y=/0x0:300x155/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif"
-      alt="HTML"
+      alt="MYSQL"
       width="40"
       height="40"
     />
@@ -132,7 +132,7 @@
     target="_blank"
   >
     <img  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-      alt="HTML"
+      alt="Git"
       width="40"
       height="40"
     />
@@ -141,8 +141,8 @@
     href="https://www.cypress.io/"
     target="_blank"
   >
-    <img  src="https://www.cypress.io/images/layouts/navbar-brand.svg"
-      alt="HTML"
+    <img  src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg"
+      alt="Cypress"
       width="40"
       height="40"
     />
