@@ -141,7 +141,7 @@
     href="https://www.cypress.io/"
     target="_blank"
   >
-    <img  src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg"
+    <img  src="https://scontent.fbel7-1.fna.fbcdn.net/v/t39.30808-6/278128364_4985948144854412_3841072495540246445_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=vGUK3FosijYAX8zHloI&_nc_ht=scontent.fbel7-1.fna&oh=00_AfDwGww_OUNVpeGlvPkyWbxTF9rHJXfVltlkretvA5k7jw&oe=65D3C664"
       alt="Cypress"
       width="40"
       height="40"
