@@ -155,14 +155,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloCChaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCChaves&layout=compact&langs_count=7&theme=dracula"/>
 
-### Season Rank
-<p><img src="https://github-profile-trophy.vercel.app/?username=MarceloCChaves&theme=dracula&" alt="MarceloCChaves" height="300rem" /></a> </p>
-
-</div>
-
-<hr/>
-
-
 ### Encontre-me na web 🌎:
  
 <a href="https://www.linkedin.com/in/marcelocchaves/">
