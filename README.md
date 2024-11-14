@@ -1,7 +1,7 @@
 ### Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
 ## Apresentação
- - Meu nome é Marcelo Calandrini Chaves e tenho 23 anos.
+ - Meu nome é Marcelo Calandrini Chaves e tenho 24 anos.
  - Sou graduado em **Ciência da computação** no **Cesupa**.
  - Sou desenvolvedor **Fullstack** e também gosto de **Design de interfaces**  .
 
