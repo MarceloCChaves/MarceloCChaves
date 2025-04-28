@@ -6,7 +6,6 @@
  - Sou desenvolvedor **Fullstack** e também gosto de **Design de interfaces**  .
 
 ### Bio
-- 💼 Atualmente me dedico em estudar concursos de t.i e uso meu tempo livre para freela.
 - ✍ Stacks: ReactJS, VueJs, Angular, NodeJs, React Native.
 - ⚽ Gosto muito de futebol e basquete.
 
