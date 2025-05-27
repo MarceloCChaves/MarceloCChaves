@@ -1,12 +1,12 @@
 ### Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
 ## Apresentação
- - Meu nome é Marcelo Calandrini Chaves e tenho 24 anos.
- - Sou graduado em **Ciência da computação** no **Cesupa**.
- - Sou desenvolvedor **Fullstack** e também gosto de **Design de interfaces**  .
+- Olá! Me chamo Marcelo Calandrini Chaves, tenho 24 anos e sou graduado em Ciência da Computação pelo CESUPA.
+- Atuo como desenvolvedor Fullstack, com experiência em diversas tecnologias do ecossistema web. 
+- Além da programação, tenho grande interesse por design de interfaces, unindo estética e usabilidade para criar experiências digitais de qualidade.
 
 ### Bio
-- ✍ Stacks: ReactJS, VueJs, Angular, NodeJs, React Native.
+- ✍ Stacks principais: ReactJS, VueJs, Angular, NodeJs, React Native.
 - ⚽ Gosto muito de futebol e basquete.
 
 ### Tecnologias e Ferramentas
@@ -50,4 +50,9 @@
   <a href="mailto:marcelochaves20000@gmail.com" target="_blank">
     <img alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
+  &nbsp;
+  <a href="https://marcelochaves.dev.br" target="_blank">
+    <img alt="Website" width="30px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
+  </a>
 </p>
+
